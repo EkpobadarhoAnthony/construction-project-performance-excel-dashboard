@@ -46,7 +46,6 @@ The main objectives of this project are to:
 - Dynamic Analysis
 - Charts & Data Visualisation
 - Dashboard Design
-- Waterfall Charts
 - Scatter Charts
 - Bubble Charts 
 - Histogram
@@ -121,11 +120,9 @@ Construction-Project-Performance-Excel-Dashboard/
 │   ├── dashboard.png
 │   ├── revenue_chart.png
 │   ├── profit_chart.png
-│   ├── waterfall_chart.png
 │   ├── scatter_analysis.png
 │   ├── bubble_chart.png
 │   ├── pareto_chart.png
-│   └── regional_heatmap.png
 │
 └── Data/
     └── project_data.xlsx
